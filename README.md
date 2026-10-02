@@ -1,16 +1,56 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**3rc5/3rc5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👨‍💻 3rc5
 
-Here are some ideas to get you started:
+### 🛡️ Cyber Security • 🔴 Red Team • 🌐 Web Security
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Security Researcher | Pentester | Python Developer | AI Security | Automation
+
+</div>
+
+---
+
+## 🧠 About Me
+
+- 🛡️ Cyber Security Enthusiast
+- 🔴 Interested in Red Team & Offensive Security
+- 🌐 Web Application Security & Pentesting
+- 🐍 Python Developer
+- 🤖 Exploring AI Security & Cybersecurity Automation
+- 🔍 Security Research & Tool Development
+- ⚙️ Building practical security tools and automation
+
+---
+
+## 🧰 Tech Stack
+
+### 💻 Programming
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+
+### 🛡️ Cyber Security
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### ⚙️ Tools & Automation
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 🔐 Security Interests
+
+```text
+Web Security
+Red Team
+Penetration Testing
+Security Research
+OSINT
+Threat Intelligence
+AI Security
+Security Automation
+Python Tool Development
+CTF
